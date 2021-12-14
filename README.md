@@ -1,5 +1,10 @@
-### Hi there 👋
+## Irfanuddin Shafi Ahmed
 
+Hi! I am Irfanuddin, working as Product Designer in UnifyTwin!
+
+I work with Python, C, C++. I love PEP, and a pure minimalist.
+
+Hit me up for Industrial IoT, Machine Learning or with really complex problem! Will do my best to give simplest solution!
 <!--
 **iudeen/iudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
