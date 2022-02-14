@@ -9,15 +9,7 @@
 
 <h2  align="left">✏️ Summary</h2>
 
-<p> An experienced professional with strong interpersonal skills and
-
-excellent leadership qualities having an experience of over 2 years in
-
-design and development of Industrial IoT and Intelligent Systems. I hold
-
-a master’s degree in Computer Systems Engineering and a bachelor’s
-
-degree in Electronics and Communication Engineering.
+<p> An experienced professional with strong interpersonal skills and excellent leadership qualities having an experience of over 2 years in design and development of Industrial IoT and Intelligent Systems. I hold a master’s degree in Computer Systems Engineering and a bachelor’s degree in Electronics and Communication Engineering.
 
 </p>
 
@@ -25,11 +17,7 @@ degree in Electronics and Communication Engineering.
 
 IoT, Product Management, Product Design, Project Planning, Software Architecture, Software Design and Development, Embedded Systems, and Intelligent Autonomous Systems.
 
-  
-
 <h2>💼 Professional Experience</h2>
-
-  
 
 <a  href="https://unifytwin.com"> <img  align='right'  src="https://unifytwin.com/assets/imgs/UT_logo.png"  height="40"></a>
 
