@@ -1,7 +1,7 @@
 
   
 
-<h1  align="center">Hi, Irfanuddin Shafi Ahmed</h1>
+<h1  align="center">Irfanuddin Shafi Ahmed</h1>
 
 <h3  align="center">A product designer aiming to resolve complex problems with simple solutions.</h3>
 
