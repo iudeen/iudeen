@@ -1,15 +1,16 @@
 
+
   
 
 <h1  align="center">Irfanuddin Shafi Ahmed</h1>
 
-<h3  align="center">A product designer aiming to resolve complex problems with simple solutions.</h3>
+<h3  align="center">A leader on a mission to resolve complex problems with simple solutions.</h3>
 
   
 
 <h2  align="left">✏️ Summary</h2>
 
-<p> An experienced professional with strong interpersonal skills and excellent leadership qualities having an experience of over 2 years in design and development of Industrial IoT and Intelligent Systems. I hold a master’s degree in Computer Systems Engineering and a bachelor’s degree in Electronics and Communication Engineering.
+<p> An experienced professional with strong interpersonal skills and excellent leadership qualities having an experience of over 4 years in leading design and development of Industrial IoT and Intelligent Systems. I hold a master’s degree in Computer Systems Engineering and a bachelor’s degree in Electronics and Communication Engineering.
 
 </p>
 
@@ -18,17 +19,20 @@
 IoT, Product Management, Product Design, Project Planning, Software Architecture, Software Design and Development, Embedded Systems, and Intelligent Autonomous Systems.
 
 <h2>💼 Professional Experience</h2>
+<a  href="https://unifytwin.com"> <img  align='right'  src="https://unifytwin.com/assets/imgs/UT_logo.png"  height="40"></a>
+
+<h3  align="left">Technology Lead</h3>
+
+<p  align='left'>📍Bangalore, India | 📅October 2022 - Present</p>
+Leads design and development of state-of-the-art industrial IoT Platform tackling niche issues faced by industries embarking the digital transformation journey. Responsibilities include designing cloud architecture, code review, training, mentoring, customer requirement, documenting and planning the product roadmap. Playing the role of team lead, product designer and software developer
+
+
 
 <a  href="https://unifytwin.com"> <img  align='right'  src="https://unifytwin.com/assets/imgs/UT_logo.png"  height="40"></a>
 
 <h3  align="left">Product Designer</h3>
 
-  
-
-<p  align='left'>📍Bangalore, India | 📅Apr 2021 – Present</p>
-
-  
-
+<p  align='left'>📍Bangalore, India | 📅Apr 2021 – September 2022</p>
 <p>
 
 Contributing towards design and development of state-of-the-art industrial IoT Platform tackling niche issues faced by industries embarking the digital transformation journey. Responsibilities include designing cloud architecture, code review, training, mentoring, customer requirement, documenting and planning the product roadmap. Playing the role of team lead, product designer and software developer
